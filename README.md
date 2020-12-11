@@ -5,8 +5,11 @@ The purpose of this analysis is to identify the amount of workforce retirements 
 
 ## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
+<img width="137" alt="retiring_titles" src="https://user-images.githubusercontent.com/68725398/101874431-e16a5300-3b56-11eb-9f66-50a6a3cb1823.png">
  - There is a large amount of retirees from within the company, upmost 90,000+ employees are at an retireable age just for the 3 selected years alone.
  - The titles that are highest in retirees seems to belong to Senior Engineers and Senior Staffs with both being over 28,000 retirements. On the flip side, Manager title has the least retirement, at 2.
+ 
+ <img width="158" alt="mentorship_program_pivot_counts" src="https://user-images.githubusercontent.com/68725398/101874561-1b3b5980-3b57-11eb-81de-e355cf5779cc.png">
  - The amount of people eligible to be in the mentorship program are way less than compared to the retiring forces from years 1952 through 1955. The 4 years have a combined total of 46 times the amount of this mentorship program.
  - There arn't as many Senior level staff in the mentorship program, compared to the retiring forces from 1952-1955.
  
